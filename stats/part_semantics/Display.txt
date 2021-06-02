@@ -1,0 +1,16 @@
+1 display subcomponents
+2 display/display_screen subcomponents
+3 display/display_screen/frame leaf
+4 display/display_screen/screen leaf
+5 display/display_screen/button leaf
+6 display/display_screen/other leaf
+7 display/base subtypes
+8 display/base/surface_base subcomponents
+9 display/base/surface_base/base_support leaf
+10 display/base/surface_base/surface leaf
+11 display/base/foot_base subcomponents
+12 display/base/foot_base/foot leaf
+13 display/base/surface_base/other leaf
+14 display/accessories subcomponents
+15 display/accessories/cord leaf
+16 display/other leaf

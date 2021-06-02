@@ -1,0 +1,14 @@
+python ./pretrain_part_pc.py \
+  --exp_name 'part_pc_ae_display' \
+  --category 'Display' \
+  --data_path '../data/partnetdata/display_geo' \
+  --train_dataset 'train.txt' \
+  --val_dataset 'val.txt' \
+  --epochs 1000 \
+  --model_version 'model_part_pc' \
+  --batch_size 64 \
+  --lr 1e-3 \
+  --lr_decay_every 300 \
+  --lr_decay_by 0.9 \
+  --use_local_frame \
+  --non_variational
