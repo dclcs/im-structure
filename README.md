@@ -2,8 +2,13 @@
 
 
 # data
+## structurenet
 
-## 生成Json文件（结构）和 npz（几何） 
+- dataset: http://download.cs.stanford.edu/orion/structurenet/partnethiergeo.zip
+
+- pretrained models: http://download.cs.stanford.edu/orion/structurenet/pretrained_models.zip
+
+## 生成json文件（结构）和 npz（几何） 
 
 - 下载链接: http://download.cs.stanford.edu/orion/partnet_dataset/data_v0.zip
     - [more information](https://www.shapenet.org/download/parts)
